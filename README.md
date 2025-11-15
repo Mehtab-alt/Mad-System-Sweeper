@@ -15,9 +15,9 @@ A modular, command-line control panel for advanced Windows system maintenance an
 > *   **REVIEW THE CONFIGURATION** in the script file before every execution to ensure you are only running the phases you need.
 > *   You are solely responsible for any actions performed by this script on your system.
 
-## Core Philosophy: The Digital Dry Dock
+## Core Philosophy: 
 
-This script is designed to be a "digital dry dock" for your PC. It provides a structured facility to stop non-essential services, terminate interfering processes, and perform deep maintenance that is difficult or impossible while the system is in its normal "wet" operational state. The key is its modularity—**you are the foreman who decides which operations to run.**
+This script is designed to be a "digital dry dock" for your PC. It provides a facility for reducing Windows drive storage space alot like by 8-12 gb reduction with no functionality loss. 
 
 ## Features
 
