@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A modular, command-line control panel for advanced Windows system maintenance and cleanup.
+A modular, command-line control panel for deep Windows system drive cleanup.
 
 ---
 
